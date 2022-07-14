@@ -141,6 +141,8 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 JAZZMIN_SETTINGS = {
      "site_header": "Travello administration",
      "site_brand": "Travello",
+
+     
      "welcome_sign": "Travello administration",
       
 }
